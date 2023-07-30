@@ -9,4 +9,5 @@ The Goal is to solve all questions in 8 Weeks.
 ## Progress
 
 Week: 1
-Completed: *0* / 75
+Completed: **0 / 75**
+[___________________________________________________________________________]
