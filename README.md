@@ -6,6 +6,9 @@ go project with solutions for the [GRIND 75](https://www.techinterviewhandbook.o
 
 The Goal is to solve all questions in 8 Weeks.
 
+**Startday:** July 31
+**Endday:** September 18 
+
 ## Progress
 
 Week: 1\
