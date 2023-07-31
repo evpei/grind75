@@ -11,3 +11,13 @@ The Goal is to solve all questions in 8 Weeks.
 Week: 1\
 Completed: **0 / 75**\
 [___________________________________________________________________________]\
+
+
+## Commands
+
+Uses `just` to add commands. The following commands are available:\
+
+```makefile
+just test 
+just format
+```

@@ -24,12 +24,12 @@ func TestSolve(t *testing.T) {
 func data() []test_data {
 	return []test_data{
 		test_data{
-			nums:   []int{2,7,11,15},
+			nums:   []int{2, 7, 11, 15},
 			target: 9,
-			want:   []int{0,1},
+			want:   []int{0, 1},
 		},
 		test_data{
-			nums:   []int{3,2,4},
+			nums:   []int{3, 2, 4},
 			target: 6,
 			want:   []int{1, 2},
 		},
