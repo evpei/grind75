@@ -12,7 +12,6 @@ Week: 1\
 Completed: **2 / 75**\
 [++___________________________________________________________________________]
 
-
 ## Commands
 
 Uses `just` to add commands. The following commands are available:
