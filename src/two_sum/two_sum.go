@@ -1,4 +1,4 @@
-package week1
+package twosum
 
 // TWO SUM
 // https://leetcode.com/problems/two-sum/
