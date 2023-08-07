@@ -12,8 +12,8 @@ The Goal is to solve all questions in 8 Weeks.
 ## Progress
 
 Week: 1\
-Completed: **2 / 75**\
-[+++__________________________________________________________________________]
+Completed: **5 / 75**\
+[+++++__________________________________________________]
 
 ## Commands
 
@@ -22,4 +22,5 @@ Uses `just` to add commands. The following commands are available:
 ```makefile
 just test 
 just format
+just problems # opens the problems
 ```
