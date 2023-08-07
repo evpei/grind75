@@ -30,4 +30,3 @@ func (list *LinkedList[T]) Add(val T) {
 	next := LinkedListNode[T]{Val: val}
 	node.Next = &next
 }
-

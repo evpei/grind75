@@ -14,7 +14,7 @@ type test_data struct {
 
 func TestSolve(t *testing.T) {
 	for index, data := range data() {
-	result := Solve(data.nums, data.target)
+		result := Solve(data.nums, data.target)
 		if !cmp.Equal(data.want, result) {
 			t.Fatalf(`Test #%d failed. Expected "%v", but got "%v"`, index+1, data.want, result)
 		}

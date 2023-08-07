@@ -16,7 +16,7 @@ type test_data struct {
 func TestSolve(t *testing.T) {
 	for index, data := range data() {
 		result := Solve(data.list1, data.list2).Head
-        testData := data.want.Head
+		testData := data.want.Head
 
 		for testData != nil || result != nil {
 			if result == nil {
